@@ -1,2 +1,3 @@
 Third file
-Master - third file content
+Third file content
+Hey there, this is the third file!
