@@ -1,1 +1,2 @@
 Third file
+Master - third file content
